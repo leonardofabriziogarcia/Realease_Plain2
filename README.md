@@ -7,5 +7,5 @@
 
     -Implementar a página de login com validação de dados (3 story points) - prioridade-(prioridade 2)
     -Implementar a funcionalidade de autenticação com banco de dados (5 story points) -(prioridade 3)
-    -Testar a funcionalidade de login em diferentes navegadores e dispositivos (2 story points) - (prioridade 1)
+    -Testar a funcionalidade de login em diferentes navegadores e dispositivos (2 story points) - (prioridade 1).
     
